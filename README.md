@@ -1,4 +1,4 @@
-# Ezxhange Online External Email Notifacition Rule
+# Ezchange Online External Email Notifacition Rule
 Dışarıdan gönderilen e-postalar için kullanıcıya e-postanın hemen altında uyarı verilir.
 
 ![EO-ExternalEmailNotifacitionRule1](https://user-images.githubusercontent.com/53214224/168003499-74e03dd2-cae9-4779-9dfb-bfaba92a1add.png)
